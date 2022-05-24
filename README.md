@@ -1,3 +1,5 @@
+# Aloha, I'm [Armaan Jain!](https://developing-gamer.github.io/#/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+
 # 💫About Me :
 🔭 I’m currently working on my Skills.\
  🌱 I’m currently learning more about Game Development.\
