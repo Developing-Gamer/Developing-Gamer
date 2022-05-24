@@ -1,10 +1,10 @@
 # 💫About Me :
-🔭 I’m currently working on my Skills.
- 🌱 I’m currently learning more about Game Development.
- 🤔 I’m looking for help with Exploring New Technologies.
- 💬 Ask me about any tech-related stuff.
- 📫 How to reach me: Email - maxcodes11110@gmail.com
- 😄 Pronouns: He/His
+🔭 I’m currently working on my Skills.\
+ 🌱 I’m currently learning more about Game Development.\
+ 🤔 I’m looking for help with Exploring New Technologies.\
+ 💬 Ask me about any tech-related stuff.\
+ 📫 How to reach me: Email - maxcodes11110@gmail.com\
+ 😄 Pronouns: He/His\
  ⚡ Fun fact: My favourite song is Grateful by Neffex.
 
 ## 🌐Socials
