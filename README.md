@@ -23,7 +23,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-Programmer-while-sleeping.jpg?x34900" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Developing-Gamer&icon=0&color=9)](https://visitcount.itsvg.in)
