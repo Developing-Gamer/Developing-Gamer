@@ -26,7 +26,7 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Developing-Gamer&icon=0&color=9)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Developing-Gamer&style=flat)
 
 <div align="center">
   
