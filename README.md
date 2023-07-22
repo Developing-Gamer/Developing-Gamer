@@ -1,13 +1,13 @@
-# Aloha, I'm [Armaan Jain!](https://developing-gamer.github.io/#/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Aloha, I'm [Armaan Jain!](https://boostmark.io/#/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 # 💫About Me :
-🔭 I’m currently working on my Skills.\
+🔭 I’m currently working on my Startup.\
  🌱 I’m currently learning more about Game Development.\
  🤔 I’m looking for help with Exploring New Technologies.\
  💬 Ask me about any tech-related stuff.\
  📫 How to reach me: Email - maxcodes11110@gmail.com\
  😄 Pronouns: He/His\
- ⚡ Fun fact: My favourite song is Grateful by Neffex.
+ ⚡ Fun fact: My favourite song is Sunflower.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DevelopingGamer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DevelopingGamer) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@DevelopingGamer) 
